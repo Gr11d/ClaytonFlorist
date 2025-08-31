@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="Clayton Florist - Fresh flower delivery in Clayton. Order roses, bouquets, wedding flowers, and more with same-day delivery.">
+  <title>Clayton Florist | Flower Delivery in Clayton</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 0;
+      padding: 0;
+      background: #fff9fb;
+      color: #333;
+    }
+    header {
+      background: #e6397e;
+      color: white;
+      padding: 20px;
+      text-align: center;
+    }
+    header h1 {
+      margin: 0;
+      font-size: 2rem;
+    }
+    section {
+      max-width: 800px;
+      margin: auto;
+      padding: 20px;
+    }
+    h2 {
+      color: #e6397e;
+      margin-top: 30px;
+    }
+    ul {
+      list-style-type: "🌸 ";
+      padding-left: 20px;
+    }
+    .cta {
+      text-align: center;
+      margin: 30px 0;
+    }
+    .cta a {
+      background: #e6397e;
+      color: white;
+      padding: 15px 25px;
+      border-radius: 5px;
+      text-decoration: none;
+      font-size: 1.2rem;
+    }
+    .cta a:hover {
+      background: #c02765;
+    }
+    footer {
+      background: #f3f3f3;
+      text-align: center;
+      padding: 15px;
+      font-size: 0.9rem;
+      margin-top: 40px;
+    }
+  </style>
+</head>
+<body>
+
+  <header>
+    <h1>Clayton Florist – Fresh Flowers Delivered in Clayton</h1>
+    <p>Your trusted local florist for every occasion 🌹</p>
+  </header>
+
+  <section>
+    <p>
+      Looking for a reliable <strong>florist in Clayton</strong>? Whether you need birthday flowers, wedding arrangements, sympathy bouquets, or just a simple “thank you” gesture, Clayton Florist is your go-to choice.
+    </p>
+
+    <h2>Our Services</h2>
+    <ul>
+      <li>Birthday Bouquets</li>
+      <li>Wedding & Event Flowers</li>
+      <li>Romantic Roses</li>
+      <li>Sympathy & Funeral Arrangements</li>
+      <li>Plants & Gift Baskets</li>
+    </ul>
+
+    <h2>Why Choose a Local Clayton Florist?</h2>
+    <p>
+      Ordering from ClaytonFlorist.com means you’re supporting <strong>local businesses</strong> while ensuring your flowers are fresh and hand-delivered by experts who care.  
+      Unlike big online chains, our local florists guarantee personal service and same-day delivery.
+    </p>
+
+    <div class="cta">
+      <a href="https://wa.me/+213671552572" target="_blank">💬 Order via WhatsApp</a>
+    </div>
+  </section>
+
+  <footer>
+    <p>ClaytonFlorist.com – The local choice for <strong>flower delivery in Clayton</strong>.</p>
+  </footer>
+
+</body>
+</html>
